@@ -15,4 +15,4 @@
 - **Skills**: Data cleaning, Data visualization, Exploratory data analysis (EDA), Trend analysis.
 - **Technology**: Power BI.
 - **Result**: The HR Data Analytics project provided insights into hiring trends, employee demographics, and factors affecting employee turnover. This analysis helps in understanding manpower of a company and can guide business decisions for Employee management and HR strategies.
-- **Link to Power BI Report**: 
+- **Link to Power BI Report**: https://github.com/jamaicagagam/Portfolio/tree/18c53c19c8223e5c1952dbc046cc1c9fb7ff72b3/PowerBI%20Projects/HR%20Data%20Analytics
