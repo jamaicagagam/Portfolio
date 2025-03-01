@@ -1,4 +1,4 @@
-#### Human Resource Data Analytics
+#### Human Resource Data Analytics in Power BI
 
 - **Goal**: To design and deliver an end-to-end data analytics solution for Human Resource Department
 - **Data Coverage**: 3 raw CSV files, containing HR Data, Department and Position lookup details
@@ -15,7 +15,7 @@
 - **Skills**: Data cleaning, Data visualization, Exploratory data analysis (EDA), Trend analysis.
 - **Technology**: Power BI.
 - **Result**: The HR Data Analytics project provided insights into hiring trends, employee demographics, and factors affecting employee turnover. This analysis helps in understanding manpower of a company and can guide business decisions for Employee management and HR strategies.
-- **Link to Power BI Report**: https://tinyurl.com/HR-Data-Analytics-Dashboard
+- **Link to Power BI Report**: [Human Resource Data Analytics in Power BI](https://tinyurl.com/HR-Data-Analytics-in-PowerBI)
 
 - **Thumbnail**:
 
