@@ -16,3 +16,12 @@
 - **Technology**: Power BI.
 - **Result**: The HR Data Analytics project provided insights into hiring trends, employee demographics, and factors affecting employee turnover. This analysis helps in understanding manpower of a company and can guide business decisions for Employee management and HR strategies.
 - **Link to Power BI Report**: https://tinyurl.com/HR-Data-Analytics-Dashboard
+
+- **Thumbnail**:
+![General Workforce Demographics](https://github.com/user-attachments/assets/daf07782-aa5a-4b88-9c86-6e773f567e41)
+
+![KPI and Engagement](https://github.com/user-attachments/assets/a90c3dcd-230f-4e15-aa83-3a159a37c1f6)
+
+![Employee Directory](https://github.com/user-attachments/assets/762ba525-c39a-4976-83ec-ceec2a3207d1)
+
+
